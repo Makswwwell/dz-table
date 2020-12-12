@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C63B2337-B528-4E5A-BEF9-EE1D41497250}"
+	ProjectSection(SolutionItems) = preProject
+		1.css = 1.css
+		дз таблицы.html = дз таблицы.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ED49808-234F-4C04-BE70-B16339865AC7}
+	EndGlobalSection
+EndGlobal
